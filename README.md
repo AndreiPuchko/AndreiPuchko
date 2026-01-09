@@ -14,7 +14,7 @@ I value clean architecture, explicit design, and long-term maintainability.
 ![Python](https://img.shields.io/pypi/pyversions/q2sfx)
 ![License](https://img.shields.io/github/license/AndreiPuchko/q2sfx)
 
-**Self-updating self-extracting applications for Windows (Python)**
+**Self-updating self-extracting applications (Python)**
 
 A Python package for building portable, self-updating distributions without
 complex installers.
